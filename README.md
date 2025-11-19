@@ -1,6 +1,6 @@
 # StudyMax AI
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)  
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://studymaxai-nraxxuawciqyscsobgpnbr.streamlit.app)  
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)  
 
 > **Gemini 2.0 Flash in Action:** StudyMax AI is an AI-powered learning platform that generates interactive stories and illustrations on requested topics. It supports adaptive difficulty levels, instant quiz generation, and learning progress tracking.  
